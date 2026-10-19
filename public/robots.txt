@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://navlesh-todkar-engineering.sharpbead16.chatgpt.site/sitemap.xml
